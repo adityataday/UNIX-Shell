@@ -1,6 +1,3 @@
-ESE 333 Real Time Operating Systems Project 1
-
-Author: Aditya Taday (109550833)
 
 Software Information:
 
@@ -20,4 +17,4 @@ Works with other unix shell commands such as cd, pwd, ls, mkdir, rmdir, etc...
 
 Contact Information:
 
-Email: aditya.taday@stonybrook.edu
+Email: adi.taday@gmail.com
