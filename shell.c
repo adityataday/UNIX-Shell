@@ -1,7 +1,6 @@
 /* 
  
  Name: Aditya Taday
- ID number: 109550833
 
 C Program for interpreting basic unix commands specifically IO Redirection, Pipes and Background Processing
 Recognizes single level of redirection and process operators '<', '>', '|', '&' 
